@@ -1,0 +1,5 @@
+D:\Projects\ConcodanceApp\ConcodanceApp.Common\bin\Debug\ConcodanceApp.Common.dll
+D:\Projects\ConcodanceApp\ConcodanceApp.Common\bin\Debug\ConcodanceApp.Common.pdb
+D:\Projects\ConcodanceApp\ConcodanceApp.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\ConcodanceApp\ConcodanceApp.Common\obj\Debug\ConcodanceApp.Common.dll
+D:\Projects\ConcodanceApp\ConcodanceApp.Common\obj\Debug\ConcodanceApp.Common.pdb

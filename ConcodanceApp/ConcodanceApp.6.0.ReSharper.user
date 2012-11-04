@@ -1,0 +1,211 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:App.config" caret="56" fromTop="1" />
+      <File id="40DD4266-AB1B-4431-A7CD-7C359CB0C79A/f:TextStore.cs" caret="0" fromTop="0" />
+      <File id="40DD4266-AB1B-4431-A7CD-7C359CB0C79A/f:FirstLevelData.cs" caret="257" fromTop="10" />
+      <File id="2DC54B3B-2C33-4B06-8064-82DC81581721/f:IConcordance.cs" caret="0" fromTop="0" />
+      <File id="2DC54B3B-2C33-4B06-8064-82DC81581721/f:ITextInputService.cs" caret="155" fromTop="5" />
+      <File id="2DC54B3B-2C33-4B06-8064-82DC81581721/f:ITextParsingService.cs" caret="206" fromTop="9" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:Text.txt" caret="54" fromTop="0" />
+      <File id="2DC54B3B-2C33-4B06-8064-82DC81581721/f:ITextCleaningService.cs" caret="151" fromTop="6" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:StripSpecialCharacters.cs" caret="0" fromTop="0" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:InputTextServiceFileLocation.cs" caret="0" fromTop="0" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:TextCleanService.cs" caret="0" fromTop="0" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:TextParsingService.cs" caret="318" fromTop="13" />
+      <File id="2DC54B3B-2C33-4B06-8064-82DC81581721/f:ITextOutPutService.cs" caret="215" fromTop="7" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:TextConsoleOutPutService.cs" caret="125" fromTop="4" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:Program.cs" caret="144" fromTop="7" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:ConcordanceEngine.cs" caret="980" fromTop="11" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:Program.cs" caret="293" fromTop="10" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:Program.cs" caret="293" fromTop="30" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:Program.cs" caret="169" fromTop="18" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:Program.cs" caret="284" fromTop="32" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:Program.cs" caret="169" fromTop="11" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:Program.cs" caret="284" fromTop="9" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:Program.cs" caret="169" fromTop="7" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:Program.cs" caret="169" fromTop="11" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:Program.cs" caret="169" fromTop="0" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:Program.cs" caret="291" fromTop="32" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:Program.cs" caret="293" fromTop="31" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:Program.cs" caret="293" fromTop="6" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:Program.cs" caret="269" fromTop="10" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:Program.cs" caret="291" fromTop="21" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:Program.cs" caret="291" fromTop="24" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:Program.cs" caret="291" fromTop="26" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:Program.cs" caret="291" fromTop="20" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:Program.cs" caret="291" fromTop="4" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:Program.cs" caret="291" fromTop="11" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:Program.cs" caret="296" fromTop="24" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:Program.cs" caret="291" fromTop="4" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:Program.cs" caret="291" fromTop="14" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:Program.cs" caret="296" fromTop="14" />
+      <File id="2DC54B3B-2C33-4B06-8064-82DC81581721/f:ITextOutPutService.cs" caret="225" fromTop="9" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:ConcordanceEngine.cs" caret="3142" fromTop="11" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:TextConsoleOutPutService.cs" caret="374" fromTop="12" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:ConcordanceEngine.cs" caret="548" fromTop="15" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:ConcordanceEngine.cs" caret="907" fromTop="23" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:ConcordanceEngine.cs" caret="3142" fromTop="13" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:TextConsoleOutPutService.cs" caret="610" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="public" priority="764" />
+      <Item value="string" priority="430" />
+      <Item value="return" priority="61" />
+      <Item value="GetEnglishText`0" priority="30" />
+      <Item value="var" priority="61" />
+      <Item value="arr" priority="30" />
+      <Item value="Where`1" priority="26" />
+      <Item value="from" priority="30" />
+      <Item value="select" priority="30" />
+      <Item value="n" priority="30" />
+      <Item value="result" priority="61" />
+      <Item value="Console`0" priority="119" />
+      <Item value="new" priority="371" />
+      <Item value="g" priority="61" />
+      <Item value="word" priority="26" />
+      <Item value="item" priority="30" />
+      <Item value="occurance" priority="26" />
+      <Item value="interface" priority="149" />
+      <Item value="void" priority="61" />
+      <Item value="int" priority="216" />
+      <Item value="class" priority="179" />
+      <Item value="System" priority="30" />
+      <Item value="fileLocation" priority="30" />
+      <Item value="value" priority="30" />
+      <Item value="ITextParsingService`0" priority="61" />
+      <Item value="using" priority="29" />
+      <Item value="ConcodanceApp" priority="29" />
+      <Item value="Common" priority="26" />
+      <Item value="Model" priority="26" />
+      <Item value="TextStore`0" priority="92" />
+      <Item value="StringSplitOptions`0" priority="30" />
+      <Item value="List" priority="92" />
+      <Item value="in" priority="30" />
+      <Item value="inputTextArray" priority="60" />
+      <Item value="TextStore" priority="27" />
+      <Item value="LineDetails" priority="62" />
+      <Item value="Length" priority="26" />
+      <Item value="sentenceindex" priority="93" />
+      <Item value="LineNo" priority="30" />
+      <Item value="Sentence" priority="31" />
+      <Item value="List&lt;TextStore&gt;" priority="27" />
+      <Item value="textStores" priority="30" />
+      <Item value="ITextOutPutService`0" priority="92" />
+      <Item value="IConcordance`0" priority="61" />
+      <Item value="try" priority="61" />
+      <Item value="catch" priority="30" />
+      <Item value="Exception`0" priority="30" />
+      <Item value="throw" priority="61" />
+      <Item value="InputTextServiceFileLocation" priority="27" />
+      <Item value="inputService" priority="30" />
+      <Item value="parsingService" priority="31" />
+      <Item value="TextParsingService" priority="55" />
+      <Item value="foreach" priority="61" />
+      <Item value="List&lt;FirstLevelData&gt;" priority="27" />
+      <Item value="firstLevelConcurranceData" priority="61" />
+      <Item value="if" priority="30" />
+      <Item value="else" priority="61" />
+      <Item value="for" priority="30" />
+      <Item value="storesofText" priority="61" />
+      <Item value="res" priority="123" />
+      <Item value="s" priority="30" />
+      <Item value="ITextCleaningService`0" priority="154" />
+      <Item value="cleaningService" priority="31" />
+      <Item value="Delegate`0" priority="31" />
+      <Item value="source" priority="61" />
+      <Item value="ConcordanceEngine" priority="27" />
+      <Item value="conCordaceEngine" priority="30" />
+      <Item value="AppDomainSetup`0" priority="30" />
+      <Item value="TextCleaningService" priority="31" />
+      <Item value="InputService" priority="31" />
+      <Item value="ParsingService" priority="31" />
+      <Item value="ctor" priority="30" />
+      <Item value="TextCleanService" priority="27" />
+      <Item value="StripSpecialCharacters" priority="27" />
+      <Item value="OutPutService" priority="93" />
+      <Item value="TextConsoleOutPutService" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Split`0" priority="26" />
+      <Item value="ToArray`1" priority="27" />
+      <Item value="ToCharArray`0" priority="55" />
+      <Item value="ToLower`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="BackgroundColor" priority="26" />
+      <Item value="WriteLine`0" priority="53" />
+      <Item value="Read`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IGrouping`2">
+      <Item value="Count`1" priority="26" />
+      <Item value="Key" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.StringSplitOptions">
+      <Item value="RemoveEmptyEntries" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="54" />
+      <Item value="Count" priority="27" />
+      <Item value="Where`1" priority="53" />
+      <Item value="First`1" priority="27" />
+      <Item value="OrderBy`2" priority="26" />
+      <Item value="FirstOrDefault`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ConcodanceApp.Common.ITextInputService">
+      <Item value="FileLocation" priority="26" />
+      <Item value="ReadTextFile`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ConcodanceApp.Common.ITextParsingService">
+      <Item value="ProcessText`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ConcodanceApp.Model.TextStore">
+      <Item value="ToString`0" priority="26" />
+      <Item value="Sentence" priority="26" />
+      <Item value="LineNo" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList`1" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ConcodanceApp.Model.FirstLevelData">
+      <Item value="Word" priority="107" />
+      <Item value="SentenceIndex" priority="80" />
+      <Item value="WordCountPerSentence" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="55" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ConcodanceApp.Common.ITextCleaningService">
+      <Item value="FilterSourceText`0" priority="82" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ConcodanceApp.Common.IConcordance">
+      <Item value="Generate`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ConcodanceApp.Common.ITextOutPutService">
+      <Item value="Print`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

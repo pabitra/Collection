@@ -1,0 +1,15 @@
+D:\Projects\ConcodanceApp\ConcodanceApp\bin\Debug\Text.txt
+D:\Projects\ConcodanceApp\ConcodanceApp\bin\Debug\ConcodanceApp.exe.config
+D:\Projects\ConcodanceApp\ConcodanceApp\bin\Debug\ConcodanceApp.exe
+D:\Projects\ConcodanceApp\ConcodanceApp\bin\Debug\ConcodanceApp.pdb
+D:\Projects\ConcodanceApp\ConcodanceApp\bin\Debug\ConcodanceApp.Common.dll
+D:\Projects\ConcodanceApp\ConcodanceApp\bin\Debug\ConcodanceApp.Model.dll
+D:\Projects\ConcodanceApp\ConcodanceApp\bin\Debug\ConcodanceApp.Model.pdb
+D:\Projects\ConcodanceApp\ConcodanceApp\bin\Debug\ConcodanceApp.Common.pdb
+D:\Projects\ConcodanceApp\ConcodanceApp\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\ConcodanceApp\ConcodanceApp\obj\Debug\ConcodanceApp.exe
+D:\Projects\ConcodanceApp\ConcodanceApp\obj\Debug\ConcodanceApp.pdb
+D:\Projects\ConcodanceApp\ConcodanceApp\bin\Debug\Concordance.Engine.dll
+D:\Projects\ConcodanceApp\ConcodanceApp\bin\Debug\Concordance.Library.dll
+D:\Projects\ConcodanceApp\ConcodanceApp\bin\Debug\Concordance.Library.pdb
+D:\Projects\ConcodanceApp\ConcodanceApp\bin\Debug\Concordance.Engine.pdb

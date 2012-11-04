@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="5B97EFEE-7102-449E-8297-984D068CFA6D" ModuleId="ConcodanceApp" />
+  <Module PersistentId="2DC54B3B-2C33-4B06-8064-82DC81581721" ModuleId="ConcodanceApp.Common" />
+  <Module PersistentId="40DD4266-AB1B-4431-A7CD-7C359CB0C79A" ModuleId="ConcodanceApp.Model" />
+  <Module PersistentId="399378B8-14F8-4500-9DBE-EE15CFED7C40" ModuleId="Concordance.Engine" />
+  <Module PersistentId="630C8764-6F01-4FA3-B050-BEF6D83C76FF" ModuleId="Concordance.Library" />
+</Modules>
