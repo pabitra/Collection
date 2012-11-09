@@ -8,8 +8,8 @@ namespace ConcodanceApp
         public string FilterSourceText(string currentString)
         {
       
-            string sourceStr = currentString;
-            string rgPattern = @"[\\\/:\*\?\.\,""<>|]";
+            string sourceStr = currentString.Trim();
+            string rgPattern = @"[\\\/:\*\?\.\,""<>|]\r\n";
             Regex oRegex = new Regex(rgPattern);
             sourceStr = oRegex.Replace(sourceStr, "");
             return sourceStr;

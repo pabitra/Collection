@@ -5,3 +5,10 @@ D:\Projects\ConcodanceApp\ConcodanceApp.Common\bin\Debug\ConcodanceApp.Model.pdb
 D:\Projects\ConcodanceApp\ConcodanceApp.Common\obj\Debug\ResolveAssemblyReference.cache
 D:\Projects\ConcodanceApp\ConcodanceApp.Common\obj\Debug\ConcodanceApp.Common.dll
 D:\Projects\ConcodanceApp\ConcodanceApp.Common\obj\Debug\ConcodanceApp.Common.pdb
+C:\Users\Pabitra\Documents\GitHub\Collection\ConcodanceApp\ConcodanceApp.Common\bin\Debug\ConcodanceApp.Common.dll
+C:\Users\Pabitra\Documents\GitHub\Collection\ConcodanceApp\ConcodanceApp.Common\bin\Debug\ConcodanceApp.Common.pdb
+C:\Users\Pabitra\Documents\GitHub\Collection\ConcodanceApp\ConcodanceApp.Common\bin\Debug\ConcodanceApp.Model.dll
+C:\Users\Pabitra\Documents\GitHub\Collection\ConcodanceApp\ConcodanceApp.Common\bin\Debug\ConcodanceApp.Model.pdb
+C:\Users\Pabitra\Documents\GitHub\Collection\ConcodanceApp\ConcodanceApp.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pabitra\Documents\GitHub\Collection\ConcodanceApp\ConcodanceApp.Common\obj\Debug\ConcodanceApp.Common.dll
+C:\Users\Pabitra\Documents\GitHub\Collection\ConcodanceApp\ConcodanceApp.Common\obj\Debug\ConcodanceApp.Common.pdb

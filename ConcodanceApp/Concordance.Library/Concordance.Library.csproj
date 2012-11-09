@@ -47,6 +47,7 @@
   <ItemGroup>
     <Compile Include="InputTextServiceFileLocation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReplaceAcronymsWithWords.cs" />
     <Compile Include="StripSpecialCharacters.cs" />
     <Compile Include="TextCleanService.cs" />
     <Compile Include="TextConsoleOutPutService.cs" />

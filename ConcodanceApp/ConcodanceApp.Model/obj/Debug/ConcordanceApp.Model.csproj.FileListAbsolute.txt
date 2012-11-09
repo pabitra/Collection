@@ -3,3 +3,8 @@ D:\Projects\ConcodanceApp\ConcodanceApp.Model\bin\Debug\ConcodanceApp.Model.pdb
 D:\Projects\ConcodanceApp\ConcodanceApp.Model\obj\Debug\ResolveAssemblyReference.cache
 D:\Projects\ConcodanceApp\ConcodanceApp.Model\obj\Debug\ConcodanceApp.Model.dll
 D:\Projects\ConcodanceApp\ConcodanceApp.Model\obj\Debug\ConcodanceApp.Model.pdb
+C:\Users\Pabitra\Documents\GitHub\Collection\ConcodanceApp\ConcodanceApp.Model\bin\Debug\ConcodanceApp.Model.dll
+C:\Users\Pabitra\Documents\GitHub\Collection\ConcodanceApp\ConcodanceApp.Model\bin\Debug\ConcodanceApp.Model.pdb
+C:\Users\Pabitra\Documents\GitHub\Collection\ConcodanceApp\ConcodanceApp.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pabitra\Documents\GitHub\Collection\ConcodanceApp\ConcodanceApp.Model\obj\Debug\ConcodanceApp.Model.dll
+C:\Users\Pabitra\Documents\GitHub\Collection\ConcodanceApp\ConcodanceApp.Model\obj\Debug\ConcodanceApp.Model.pdb

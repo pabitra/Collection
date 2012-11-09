@@ -15,6 +15,7 @@ namespace Concordance.Engine
         public ITextParsingService ParsingService { get; set; }
         public ITextCleaningService StripUnneccessaryCharacters { get; set; }
         public ITextOutPutService OutPutService { get; set; }
+        public ITextCleaningService AcronymsService { get; set; }
 
         public ConcordanceEngine()
         {
@@ -23,6 +24,7 @@ namespace Concordance.Engine
             ParsingService = new TextParsingService();
             StripUnneccessaryCharacters = new StripSpecialCharacters();
             OutPutService = new TextConsoleOutPutService();
+            AcronymsService = new ReplaceAcronymsWithWords();
         }
 
         public void Generate()
@@ -31,21 +33,25 @@ namespace Concordance.Engine
             {
 
                 InputService.FileLocation = "Text.txt";
-                string inputText = StripUnneccessaryCharacters.FilterSourceText(InputService.ReadTextFile());
+
+                string inputText = InputService.ReadTextFile();
+                inputText = StripUnneccessaryCharacters.FilterSourceText(inputText);
+                inputText = AcronymsService.FilterSourceText(inputText);
                 List<TextStore> storesofText = ParsingService.ProcessText(inputText);
                 List<FirstLevelData> firstLevelConcurranceData = new List<FirstLevelData>();
 
+                string[] arr;
+                arr = null;
                 foreach (var textStore in storesofText)
                 {
                     int lineIndex = textStore.LineNo;
-                    string[] arr = textStore.Sentence.Split(new char[] { ' ' });
+                    arr = textStore.Sentence.Split(new char[] { ' ' });
 
-                    IEnumerable<FirstLevelData> result;
-                    result = from n in arr
-                             group n by n
-                             into g
-                             orderby g.Key
-                             select new FirstLevelData { SentenceIndex = lineIndex.ToString(), Word = CleaningService.FilterSourceText(g.Key), WordCountPerSentence = g.Count() };
+                    IEnumerable<FirstLevelData> result = from n in arr
+                                         group n by n
+                                         into g
+                                         orderby g.Key
+                                         select new FirstLevelData { SentenceIndex = lineIndex.ToString(), Word = CleaningService.FilterSourceText(g.Key), WordCountPerSentence = g.Count() };
 
                     if (firstLevelConcurranceData.Count > 0)
                     {
@@ -71,16 +77,14 @@ namespace Concordance.Engine
                     }
 
                 }
-
-                
-                
+                 
                 OutPutService.Print(firstLevelConcurranceData.OrderBy(s => s.Word).ToList());
 
                 
             }
-            catch (Exception)
+            catch (Exception e)
             {
-                throw;
+                Console.WriteLine("Exception " + e.Message ?? "", e.Message + e.InnerException ?? "", e.InnerException.Message);
             }
         }
 

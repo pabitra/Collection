@@ -1,0 +1,110 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="2DC54B3B-2C33-4B06-8064-82DC81581721/f:ITextOutPutService.cs" caret="250" fromTop="8" />
+      <File id="630C8764-6F01-4FA3-B050-BEF6D83C76FF/f:TextConsoleOutPutService.cs" caret="127" fromTop="5" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:Text.txt" caret="67" fromTop="0" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:Program.cs" caret="268" fromTop="12" />
+      <File id="630C8764-6F01-4FA3-B050-BEF6D83C76FF/f:InputTextServiceFileLocation.cs" caret="468" fromTop="17" />
+      <File id="630C8764-6F01-4FA3-B050-BEF6D83C76FF/f:StripSpecialCharacters.cs" caret="1145" fromTop="10" />
+      <File id="399378B8-14F8-4500-9DBE-EE15CFED7C40/f:ConcordanceEngine.cs" caret="3415" fromTop="88" />
+      <File id="40DD4266-AB1B-4431-A7CD-7C359CB0C79A/f:FirstLevelData.cs" caret="201" fromTop="9" />
+      <File id="399378B8-14F8-4500-9DBE-EE15CFED7C40/f:ConcordanceEngineV2.cs" caret="2274" fromTop="9" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="399378B8-14F8-4500-9DBE-EE15CFED7C40/f:ConcordanceEngine.cs" caret="1083" fromTop="11" />
+      <File id="2DC54B3B-2C33-4B06-8064-82DC81581721/f:ITextOutPutService.cs" caret="250" fromTop="8" />
+      <File id="630C8764-6F01-4FA3-B050-BEF6D83C76FF/f:TextConsoleOutPutService.cs" caret="743" fromTop="26" />
+      <File id="630C8764-6F01-4FA3-B050-BEF6D83C76FF/f:TextConsoleOutPutService.cs" caret="326" fromTop="12" />
+      <File id="5B97EFEE-7102-449E-8297-984D068CFA6D/f:Text.txt" caret="97" fromTop="0" />
+      <File id="399378B8-14F8-4500-9DBE-EE15CFED7C40/f:ConcordanceEngine.cs" caret="2067" fromTop="7" />
+      <File id="399378B8-14F8-4500-9DBE-EE15CFED7C40/f:ConcordanceEngine.cs" caret="1591" fromTop="8" />
+      <File id="399378B8-14F8-4500-9DBE-EE15CFED7C40/f:ConcordanceEngine.cs" caret="1404" fromTop="7" />
+      <File id="399378B8-14F8-4500-9DBE-EE15CFED7C40/f:ConcordanceEngine.cs" caret="2390" fromTop="9" />
+      <File id="399378B8-14F8-4500-9DBE-EE15CFED7C40/f:ConcordanceEngine.cs" caret="3424" fromTop="88" />
+      <File id="399378B8-14F8-4500-9DBE-EE15CFED7C40/f:ConcordanceEngineV2.cs" caret="0" fromTop="0" />
+      <File id="399378B8-14F8-4500-9DBE-EE15CFED7C40/f:ConcordanceEngineV2.cs" caret="267" fromTop="8" />
+      <File id="399378B8-14F8-4500-9DBE-EE15CFED7C40/f:ConcordanceEngineV2.cs" caret="732" fromTop="0" />
+      <File id="399378B8-14F8-4500-9DBE-EE15CFED7C40/f:ConcordanceEngineV2.cs" caret="2260" fromTop="9" />
+      <File id="399378B8-14F8-4500-9DBE-EE15CFED7C40/f:ConcordanceEngineV2.cs" caret="3285" fromTop="30" />
+      <File id="399378B8-14F8-4500-9DBE-EE15CFED7C40/f:ConcordanceEngineV2.cs" caret="3018" fromTop="17" />
+      <File id="399378B8-14F8-4500-9DBE-EE15CFED7C40/f:ConcordanceEngineV2.cs" caret="2998" fromTop="12" />
+      <File id="399378B8-14F8-4500-9DBE-EE15CFED7C40/f:ConcordanceEngineV2.cs" caret="2993" fromTop="22" />
+      <File id="399378B8-14F8-4500-9DBE-EE15CFED7C40/f:ConcordanceEngineV2.cs" caret="2906" fromTop="19" />
+      <File id="399378B8-14F8-4500-9DBE-EE15CFED7C40/f:ConcordanceEngineV2.cs" caret="2632" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="void" priority="61" />
+      <Item value="string" priority="218" />
+      <Item value="public" priority="30" />
+      <Item value="Console`0" priority="30" />
+      <Item value="IEnumerable" priority="30" />
+      <Item value="FirstLevelData`0" priority="188" />
+      <Item value="var" priority="30" />
+      <Item value="from" priority="30" />
+      <Item value="firstLevelConcurranceData" priority="30" />
+      <Item value="group" priority="30" />
+      <Item value="n" priority="182" />
+      <Item value="by" priority="30" />
+      <Item value="into" priority="30" />
+      <Item value="orderby" priority="30" />
+      <Item value="gr" priority="350" />
+      <Item value="select" priority="61" />
+      <Item value="new" priority="189" />
+      <Item value="FirstLevelData" priority="56" />
+      <Item value="SentenceIndex" priority="189" />
+      <Item value="Word" priority="89" />
+      <Item value="WordCountPerSentence" priority="151" />
+      <Item value="p" priority="30" />
+      <Item value="next" priority="61" />
+      <Item value="current" priority="30" />
+      <Item value="as" priority="92" />
+      <Item value="private" priority="30" />
+      <Item value="StringBuilder`0" priority="62" />
+      <Item value="t" priority="93" />
+      <Item value="g" priority="62" />
+      <Item value="LineNo" priority="26" />
+      <Item value="Delegate`0" priority="61" />
+      <Item value="decimal" priority="30" />
+      <Item value="base" priority="30" />
+      <Item value="a" priority="30" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="Write`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="AddRange`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ConcodanceApp.Model.FirstLevelData">
+      <Item value="Word" priority="80" />
+      <Item value="WordCountPerSentence" priority="54" />
+      <Item value="SentenceIndex" priority="189" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IGrouping`2">
+      <Item value="Key" priority="193" />
+      <Item value="Count`1" priority="28" />
+      <Item value="SentenceIndex" priority="27" />
+      <Item value="Aggregate`1" priority="55" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

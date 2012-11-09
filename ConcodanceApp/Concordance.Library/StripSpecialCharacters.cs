@@ -1,3 +1,4 @@
+using System.Text.RegularExpressions;
 using ConcodanceApp.Common;
 
 namespace ConcodanceApp
@@ -8,6 +9,9 @@ namespace ConcodanceApp
         {
 
             string a = currentString;
+            a = ConvertWhitespaceToSpacesString(a);
+            a = ConvertWhitespaceToSpacesStringV1(a);
+            a = ConvertWhitespacesToSingleSpaces(a);
             a = a.Replace("\"", "");
             a = a.Replace("---", "");
             a = a.Replace("--", "");
@@ -31,8 +35,29 @@ namespace ConcodanceApp
             a = a.Replace("``", "");
             a = a.Replace("''", "");
             a = a.Replace("(", "");
-            return a;
+            a = a.Replace(")", "");
+            a = a.Replace(",", "");
+            a = a.Replace(":", "");
+            return a.Trim();
         
+        }
+        private string ConvertWhitespaceToSpacesString(string value)
+        {
+            value = value.Replace('\r', ' ');
+            value = value.Replace('\n', ' ');
+            return value;
+        }
+
+        private string ConvertWhitespaceToSpacesStringV1(string value)
+        {
+            value = value.Replace('\r', ' ');
+            value = value.Replace('\n', ' ');
+            return value;
+        }
+        private string ConvertWhitespacesToSingleSpaces(string value)
+        {
+            value = Regex.Replace(value, @"\s+", " ");
+            return value;
         }
     }
 }

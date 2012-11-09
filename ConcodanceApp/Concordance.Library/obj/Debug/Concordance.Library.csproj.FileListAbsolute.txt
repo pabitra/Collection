@@ -7,3 +7,12 @@ D:\Projects\ConcodanceApp\Concordance.Library\bin\Debug\ConcodanceApp.Model.pdb
 D:\Projects\ConcodanceApp\Concordance.Library\bin\Debug\ConcodanceApp.Common.pdb
 D:\Projects\ConcodanceApp\Concordance.Library\obj\Debug\Concordance.Library.dll
 D:\Projects\ConcodanceApp\Concordance.Library\obj\Debug\Concordance.Library.pdb
+C:\Users\Pabitra\Documents\GitHub\Collection\ConcodanceApp\Concordance.Library\bin\Debug\Concordance.Library.dll
+C:\Users\Pabitra\Documents\GitHub\Collection\ConcodanceApp\Concordance.Library\bin\Debug\Concordance.Library.pdb
+C:\Users\Pabitra\Documents\GitHub\Collection\ConcodanceApp\Concordance.Library\bin\Debug\ConcodanceApp.Common.dll
+C:\Users\Pabitra\Documents\GitHub\Collection\ConcodanceApp\Concordance.Library\bin\Debug\ConcodanceApp.Model.dll
+C:\Users\Pabitra\Documents\GitHub\Collection\ConcodanceApp\Concordance.Library\bin\Debug\ConcodanceApp.Model.pdb
+C:\Users\Pabitra\Documents\GitHub\Collection\ConcodanceApp\Concordance.Library\bin\Debug\ConcodanceApp.Common.pdb
+C:\Users\Pabitra\Documents\GitHub\Collection\ConcodanceApp\Concordance.Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pabitra\Documents\GitHub\Collection\ConcodanceApp\Concordance.Library\obj\Debug\Concordance.Library.dll
+C:\Users\Pabitra\Documents\GitHub\Collection\ConcodanceApp\Concordance.Library\obj\Debug\Concordance.Library.pdb

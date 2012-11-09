@@ -10,8 +10,7 @@ namespace ConcodanceApp
     {
         public void Print(List<FirstLevelData> firstLevelConcurranceData)
         {
-            if (firstLevelConcurranceData[0].Word.Length==0)
-                firstLevelConcurranceData.RemoveAt(0);
+            
 
             foreach (var source in firstLevelConcurranceData)
             {
@@ -21,6 +20,10 @@ namespace ConcodanceApp
             }
 
             Console.Read();
+        }
+        public void Print(string value)
+        {
+            Console.WriteLine(value);
         }
     }
 }
